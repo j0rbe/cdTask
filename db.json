@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "id": 1,
+    "name": "Michael Jordan",
+    "username": "AirJordan",
+    "email": "AirJordan@gmail.com",
+    "phone": "0450188852",
+    "website": "RoyalAirness.com",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jordan_Lipofsky.jpg/170px-Jordan_Lipofsky.jpg"
+   },
+  {
+    "id": 2,
+    "name": "Kobe Bryant",
+    "username": "BlackMamba",
+    "email": "BlackMamba@gmail.com",
+    "phone": "0450188853",
+    "website": "MambaMentality.com",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Kobe_Bryant_2014.jpg"
+   },
+  {
+    "id": 3,
+    "name": "Lebron James",
+    "username": "KingJames",
+    "email": "KingJames@gmail.com",
+    "phone": "0450188854",
+    "website": "TheKing.com",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LeBron_James_18112009_1.jpg/800px-LeBron_James_18112009_1.jpg"
+   },
+  ]
