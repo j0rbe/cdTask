@@ -1,5 +1,4 @@
 [
-  
   {
     "id": 1,
     "name": "Michael Jordan",
@@ -26,6 +25,23 @@
     "phone": "0450188854",
     "website": "TheKing.com",
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LeBron_James_18112009_1.jpg/800px-LeBron_James_18112009_1.jpg"
+   },
+  {
+    "id": 4,
+    "name": "Allen Iverson",
+    "username": "TheAnswer",
+    "email": "TheAnswer@gmail.com",
+    "phone": "0450188855",
+    "website": "pound4pound.com",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Allen_Iverson_Lipofsky.jpg/220px-Allen_Iverson_Lipofsky.jpg"
+   },
+  {
+    "id": 5,
+    "name": "Shaquille O'Neal",
+    "username": "Diesel",
+    "email": "Diesel@gmail.com",
+    "phone": "0450188856",
+    "website": "ShaqFu.com",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lipofsky_Shaquille_O%27Neal.jpg"
    }
-  
   ]
